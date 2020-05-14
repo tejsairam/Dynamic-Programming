@@ -1,4 +1,4 @@
-  /*                                                              DYNAMIC PROGRAMMING
+                                                                DYNAMIC PROGRAMMING
 
                                              " Those who cannot remember their past are condemned to repeat it "
 
@@ -55,7 +55,7 @@ fib(1) fib(0)
 	
 	                                       start with smallest                            end with biggest
                         
-*/
+
 	
 	                          
 
